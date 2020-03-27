@@ -1,2 +1,0 @@
-# maths
-A mathematics package
